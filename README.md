@@ -10,3 +10,6 @@ Desenvolvedor Full Stack com mais de 6 anos de experiência, especializado em cr
 ### 📊 Meus números:
 - +6 anos de experiência em desenvolvimento.
 - Foco em arquitetura limpa e automação de processos.
+
+
+Meu trabalho mais recente: lpclt3.seguefinanceira.com.br
